@@ -1,4 +1,15 @@
-## Hi there 👋
+# Esther Maina
+
+Welcome to my GitHub portfolio
+
+Building projects across data analysis, web development, and creative digital experiences.
+
+## 🚀 Projects
+
+### 📊 Online Retail Analysis
+A data analysis project exploring online retail transactions, customer behavior, products, and revenue using Python, Pandas, Excel, and Power BI.
+
+🔗 [View Project](https://github.com/esthermaina36/online-retail-analysis)
 
 <!--
 **esthermaina36/esthermaina36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
