@@ -11,6 +11,13 @@ A data analysis project exploring online retail transactions, customer behavior,
 
 🔗 [View Project](https://github.com/esthermaina36/online-retail-analysis)
 
+### 🎀 Cutenterest
+
+A cute Pinterest inspired website for discovering and sharing things I love ,from nails and hairstyles to cute outfits and everything in between.
+
+🔗 **[View Project](https://github.com/esthermaina36/Cutenterest)**
+
+
 <!--
 **esthermaina36/esthermaina36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
