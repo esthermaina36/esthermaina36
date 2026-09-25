@@ -15,7 +15,7 @@ A data analysis project exploring online retail transactions, customer behavior,
 
 A cute Pinterest inspired website for discovering and sharing things I love ,from nails and hairstyles to cute outfits and everything in between.
 
-🔗 **[View Project](https://github.com/esthermaina36/Cutenterest)**
+🔗 **[View Project](https://cutenterest.vercel.app/)**
 
 ### BOOKIE
 
