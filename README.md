@@ -23,6 +23,13 @@ A simple book discovery website built and designed to showcase books in a clean 
 
 🔗 **[View Project](https://github.com/esthermaina36/Bookie)**
 
+###  Asheria Accessories
+
+A website project created for an accessories brand, focusing on a clean, elegant, and visually appealing shopping experience.
+
+🔗 **[View Project](https://github.com/esthermaina36/Asheria-Accessories)**
+
+
 
 
 <!--
