@@ -6,16 +6,23 @@ Building projects across data analysis, web development, and creative digital ex
 
 ## 🚀 Projects
 
-### 📊 Online Retail Analysis
+### Online Retail Analysis
 A data analysis project exploring online retail transactions, customer behavior, products, and revenue using Python, Pandas, Excel, and Power BI.
 
 🔗 [View Project](https://github.com/esthermaina36/online-retail-analysis)
 
-### 🎀 Cutenterest
+###  Cutenterest
 
 A cute Pinterest inspired website for discovering and sharing things I love ,from nails and hairstyles to cute outfits and everything in between.
 
 🔗 **[View Project](https://github.com/esthermaina36/Cutenterest)**
+
+### BOOKIE
+
+A simple book discovery website built and designed to showcase books in a clean and minimal layout.
+
+🔗 **[View Project](https://github.com/esthermaina36/Bookie)**
+
 
 
 <!--
