@@ -33,7 +33,7 @@ A website project created for an accessories brand, focusing on a clean, elegant
 
 A personal digital archive designed to preserve memories, experiences, thoughts, dreams, books, and songs in a warm and personal space.
 
-🔗 **[View Project]((https://wacera-archives-6d6ma2869-maina12.vercel.app/))**
+🔗 **[View Project](https://wacera-archives-6d6ma2869-maina12.vercel.app/)**
 
 
 
