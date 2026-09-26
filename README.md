@@ -21,7 +21,7 @@ A cute Pinterest inspired website for discovering and sharing things I love ,fro
 
 A simple book discovery website built and designed to showcase books in a clean and minimal layout.
 
-🔗 **[View Project](https://github.com/esthermaina36/Bookie)**
+🔗 **[View Project](https://bookie-dun-alpha.vercel.app/)**
 
 ###  Asheria Accessories
 
