@@ -27,7 +27,7 @@ A simple book discovery website built and designed to showcase books in a clean 
 
 A website project created for an accessories brand, focusing on a clean, elegant, and visually appealing shopping experience.
 
-🔗 **[View Project](https://github.com/esthermaina36/Asheria-Accessories)**
+🔗 **[View Project](https://asheria-accessories.vercel.app/)**
 
 ###  Wacera Archives
 
